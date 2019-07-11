@@ -14,9 +14,10 @@ This image illustrates how PONO differs from some popular nomalization methods:
 ![](./figs/PONO_vs_others.png)
 In the figure, each subplot shows a feature map tensor, with B as the batch axis, C as the channel axis, and (H, W) as the spatial axis. The entries colored in green or blue (ours) are normalized by the same mean and standard deviation. Unlike previous methods, our method processes each position independently.
 
-It's suggested to put PONOs right after convolution operations in a encoder and MSs right before convolution operations in the decoder. One may use a ConvNet taking μ and σ extracted from PONO as inputs to generate β and γ for MS, which we refer as Dynamic Moment Shortcut (DMS). Here we show and illustration.
+It's suggested to put PONOs right after convolution operations in a encoder (former layers) and MSs right before convolution operations in the decoder (latter layers). One may use a ConvNet taking μ and σ extracted from PONO as inputs to generate β and γ for MS, which we refer as Dynamic Moment Shortcut (DMS). Here we show the illustration.
 ![](./figs/PONO-MS.jpg)
 
+##### More information will be updated.
 
 If you find this repo useful, please cite:
 ```
