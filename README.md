@@ -20,10 +20,6 @@ It's suggested to put PONOs right after convolution operations in the encoder (f
 #### Explorations beyond our paper
 Image Dehazing: Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/master/AOD-Net%20with%20PONO)
 
-Visual Navigation
-
-Image Superresolution
-
 #### More information and relevant applications will be updated.
 
 If you find this repo useful, please cite:
