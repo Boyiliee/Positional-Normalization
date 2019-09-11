@@ -8,7 +8,7 @@
 *: Equal Contribution
 
 ### Overview
-The repo contains TensorFlow and PyTorch Implementation of Positional Normalization (PONO) and Moment Shortcut (MS), described in the paper [Positional Normalization](https://arxiv.org/abs/1907.04312).
+The repo contains TensorFlow and PyTorch Implementation of Positional Normalization (PONO) and Moment Shortcut (MS), described in the paper [Positional Normalization](https://arxiv.org/abs/1907.04312)(To appear in NeurIPS 2019, Spotlight). 
 
 This image illustrates how PONO differs from some popular nomalization methods:
 ![](./figs/PONO_vs_others.png)
