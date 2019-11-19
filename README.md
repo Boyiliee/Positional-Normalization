@@ -25,10 +25,14 @@ Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/mast
 
 If you find this repo useful, please cite:
 ```
-@article{pono,
-  title={Positional Normalization},
-  author={Li, Boyi and Wu, Felix and Weinberger, Kilian Q. and Belongie, Serge},
-  journal={Advances in Neural Information Processing Systems},
-  year={2019}
+@incollection{NIPS2019_8440,
+title = {Positional Normalization},
+author = {Li, Boyi and Wu, Felix and Weinberger, Kilian Q and Belongie, Serge},
+booktitle = {Advances in Neural Information Processing Systems 32},
+editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+pages = {1620--1632},
+year = {2019},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.nips.cc/paper/8440-positional-normalization.pdf}
 }
 ```
