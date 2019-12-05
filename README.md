@@ -1,4 +1,4 @@
-# Positional Normalization
+# Positional Normalization (NeurIPS 2019, Spotlight)
 #### Authors: 
 * [Boyi Li](https://sites.google.com/site/boyilics/home)*
 * [Felix Wu](https://scholar.google.com.tw/citations?user=sNL8SSoAAAAJ&hl=en)*
@@ -8,7 +8,7 @@
 *: Equal Contribution
 
 ### Overview
-The repo contains TensorFlow and PyTorch Implementation of Positional Normalization (PONO) and Moment Shortcut (MS), described in the paper [Positional Normalization](http://papers.nips.cc/paper/8440-positional-normalization) (To appear in NeurIPS 2019, Spotlight). 
+The repo contains TensorFlow and PyTorch Implementation of Positional Normalization (PONO) and Moment Shortcut (MS), described in the paper [Positional Normalization](http://papers.nips.cc/paper/8440-positional-normalization). 
 
 This image illustrates how PONO differs from some popular nomalization methods:
 ![](./figs/PONO_vs_others.png)
