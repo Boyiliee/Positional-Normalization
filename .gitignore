@@ -104,3 +104,8 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+
+*.pt
+
+DRIT-PONO-MS/results
+DRIT-PONO-MS/logs
