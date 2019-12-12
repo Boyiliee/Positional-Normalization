@@ -107,5 +107,5 @@ venv.bak/
 
 *.pt
 
-DRIT-PONO-MS/results
-DRIT-PONO-MS/logs
+pytorch-DRIT-PONO-MS/results
+pytorch-DRIT-PONO-MS/logs
