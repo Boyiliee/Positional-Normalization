@@ -36,21 +36,21 @@ tensorboard --logdir ../logs/portrait_drit_pono_ms
 ```
 Results and saved models can be found at `../results/portrait_drit_pono_ms`.
 
-
-## Paper
-Please cite these papers if you find this code useful for your research.
+## Citation
+If you find this repo useful, please cite:
 ```
 @inproceedings{li2019positional,
-  title={Positional Normalization},
-  author={Li, Boyi and Wu, Felix and Weinberger, Kilian Q and Belongie, Serge},
-  booktitle={Advances in Neural Information Processing Systems},
-  pages={1620--1632},
-  year={2019}
+    title={Positional Normalization},
+    author={Li, Boyi and Wu, Felix and Weinberger, Kilian Q and Belongie, Serge},
+    booktitle={Advances in Neural Information Processing Systems},
+    pages={1620--1632},
+    year={2019}
 }
 
 @inproceedings{DRIT,
-  author = {Lee, Hsin-Ying and Tseng, Hung-Yu and Huang, Jia-Bin and Singh, Maneesh Kumar and Yang, Ming-Hsuan},
-  booktitle = {European Conference on Computer Vision},
-  title = {Diverse Image-to-Image Translation via Disentangled Representations},
-  year = {2018}
+    author = {Lee, Hsin-Ying and Tseng, Hung-Yu and Huang, Jia-Bin and Singh, Maneesh Kumar and Yang, Ming-Hsuan},
+    booktitle = {European Conference on Computer Vision},
+    title = {Diverse Image-to-Image Translation via Disentangled Representations},
+    year = {2018}
 }
+``````
