@@ -17,7 +17,7 @@ In the figure, each subplot shows a feature map tensor, with B as the batch axis
 It's suggested to put PONOs right after convolution operations in the encoder (former layers) and MSs right before convolution operations in the decoder (latter layers). One may use a ConvNet taking μ and σ extracted from PONO as inputs to generate β and γ for MS, which we refer as Dynamic Moment Shortcut (DMS). Here we show the illustration.
 ![](./figs/PONO-MS.jpg)
 
-Please feel free to check our [Video](https://www.youtube.com/watch?v=FaB8tlVB3EI&t=72s) for more details.
+Please feel free to check our [Video](https://youtu.be/r98mC3e8EAY) for more details.
 ### Explorations beyond our paper
 #### Image Dehazing: 
 Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/master/AOD-Net%20with%20PONO)
