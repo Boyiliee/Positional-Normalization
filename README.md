@@ -1,4 +1,5 @@
-# Positional Normalization (NeurIPS 2019, Spotlight)
+# Positional Normalization 
+(NeurIPS 2019, Spotlight)
 #### Authors: 
 * [Boyi Li](https://sites.google.com/site/boyilics/home)*
 * [Felix Wu](https://scholar.google.com.tw/citations?user=sNL8SSoAAAAJ&hl=en)*
