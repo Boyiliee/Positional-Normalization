@@ -22,6 +22,8 @@ Please feel free to check our [Video](https://youtu.be/r98mC3e8EAY) for more det
 ### Explorations beyond our paper
 #### Image Dehazing: 
 Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/master/AOD-Net%20with%20PONO)
+#### Others (Unofficial)
+Semantic Segmentation: [a2d2](https://github.com/sremes/a2d2)
 
 #### More information and relevant applications will be updated.
 
