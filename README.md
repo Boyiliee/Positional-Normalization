@@ -22,6 +22,8 @@ Please feel free to check our [Video](https://youtu.be/r98mC3e8EAY) for more det
 ### Explorations beyond our paper
 #### Image Dehazing: 
 Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/master/AOD-Net%20with%20PONO)
+#### Image Classification / Detection (Data Augmentation):
+Moment Exchange (MoEx) [Pytorch Version](https://github.com/Boyiliee/MoEx)
 #### Others (Unofficial)
 Semantic Segmentation: [Keras Version](https://github.com/sremes/a2d2)
 
