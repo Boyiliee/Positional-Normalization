@@ -20,6 +20,8 @@ It's suggested to put PONOs right after convolution operations in the encoder (f
 
 Please feel free to check our [Video](https://youtu.be/r98mC3e8EAY) for more details.
 ### Explorations beyond our paper
+#### Image Translation
+Cross-domain Correspondence Learning for Exemplar-based Image Translation: [Pytorch Version](https://github.com/microsoft/CoCosNet)
 #### Image Dehazing: 
 Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/master/AOD-Net%20with%20PONO)
 #### Image Classification / Detection (Data Augmentation):
