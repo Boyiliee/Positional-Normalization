@@ -21,17 +21,17 @@ It's suggested to put PONOs right after convolution operations in the encoder (f
 Please feel free to check our [Video](https://youtu.be/r98mC3e8EAY) for more details.
 ### Explorations beyond our paper
 #### Image Translation
-Cross-domain Correspondence Learning for Exemplar-based Image Translation: [Pytorch Version](https://github.com/microsoft/CoCosNet)
+* Cross-domain Correspondence Learning for Exemplar-based Image Translation: [Pytorch Version](https://github.com/microsoft/CoCosNet)
 #### Image Dehazing: 
-Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/master/AOD-Net%20with%20PONO)
+* Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/master/AOD-Net%20with%20PONO)
 #### Image Classification / Detection (Data Augmentation):
-Moment Exchange (MoEx) [Pytorch Version](https://github.com/Boyiliee/MoEx)
+* Moment Exchange (MoEx) [Pytorch Version](https://github.com/Boyiliee/MoEx)
 #### Others (Unofficial)
-##### Semantic Segmentation: 
+* ##### Semantic Segmentation: 
 [Keras Version](https://github.com/sremes/a2d2)
-##### Locally Masked Convolution for Autoregressive Models: 
+* ##### Locally Masked Convolution for Autoregressive Models: 
 [Pytorch Version](https://github.com/ajayjain/lmconv)
-##### Underwater Image Enhancement: 
+* ##### Underwater Image Enhancement: 
 [Paper](https://arxiv.org/abs/2102.00676)
 
 #### More information and relevant applications will be updated.
