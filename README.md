@@ -27,9 +27,12 @@ Improved AOD-Net [Pytorch Version](https://github.com/Boyiliee/AOD-Net/tree/mast
 #### Image Classification / Detection (Data Augmentation):
 Moment Exchange (MoEx) [Pytorch Version](https://github.com/Boyiliee/MoEx)
 #### Others (Unofficial)
-Semantic Segmentation: [Keras Version](https://github.com/sremes/a2d2)
-Autoregressive Models: [Pytorch Version](https://github.com/ajayjain/lmconv)
-Underwater Image Enhancement: [Paper](https://arxiv.org/abs/2102.00676)
+##### Semantic Segmentation: 
+[Keras Version](https://github.com/sremes/a2d2)
+##### Locally Masked Convolution for Autoregressive Models: 
+[Pytorch Version](https://github.com/ajayjain/lmconv)
+##### Underwater Image Enhancement: 
+[Paper](https://arxiv.org/abs/2102.00676)
 
 #### More information and relevant applications will be updated.
 
